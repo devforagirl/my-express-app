@@ -15,7 +15,8 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "build": "node index.js"
   },
   "author": "Your Name",
   "license": "MIT"
