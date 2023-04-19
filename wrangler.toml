@@ -5,6 +5,7 @@ type = "javascript"
 compatibility_date = "2022-07-12"
 
 [site]
+bucket = "./public"
 entry-point = "./"
 
 [build]
