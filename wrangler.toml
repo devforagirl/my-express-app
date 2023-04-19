@@ -1,4 +1,5 @@
 name = "my-express-app-worker"
+main = "index.js"
 workers_dev = true
 account_id = "92867c8b522681d1ad32c43899a45473"
 type = "javascript"
